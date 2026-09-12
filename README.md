@@ -1,7 +1,7 @@
 # 🌐 Jarvis Spatial Command Shell (v2.2)
 
 <p align="center">
-  <img src="preview.png" alt="Jarvis Spatial Command Shell Preview" width="850">
+  <img src="demo.gif" alt="Jarvis Spatial Command Shell Preview" width="850">
 </p>
 
 <p align="center">
